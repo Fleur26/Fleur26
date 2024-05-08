@@ -35,4 +35,4 @@ My passion for programming languages began at school (I studied in an advanced E
 In 2023, I started studying at Hexlet to improve my skills and take a serious approach to programming. At the moment, 2 projects have already been done, they can be found on my Github
 In my free time, I like to draw and play sports. I have a master of sports in kayaking. I always go to my goal and give my best.
 
-I am currently working at Yandex Food - information support
+I am currently working at Yandex Food - information support. I am working on optimizing the processes of support for three directions. I actively participate in projects
