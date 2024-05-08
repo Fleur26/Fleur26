@@ -9,7 +9,7 @@ I've been learning to code for 3 years. I started with C# and game development, 
 * 🌍  I'm based in Saratov
 * 🖥️  See my portfolio at [GitHub](http://github.com/Fleur26)
 * ✉️  You can contact me at [lera.hoholeva@yandex.ru](mailto:lera.hoholeva@yandex.ru)
-* 🚀  I'm currently working on [Pet project with Hexlet](http://github.com/Fleur26/frontend-project-46)
+* 🚀  I'm currently working on [pet project with Hexlet](http://github.com/Fleur26/frontend-project-46)
 * 🧠  I'm learning the knowledge of Frontend development, completing courses in this area
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I love design and drawing. I want to learn new things and participate in interesting collaborations
@@ -25,3 +25,14 @@ I've been learning to code for 3 years. I started with C# and game development, 
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/lerca." target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Fleur26" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+
+
+### About me
+In this section, I would like to tell you more informally about myself.
+
+My passion for programming languages began at school (I studied in an advanced English class) and long before it. I loved playing computer games, and the real discovery for me was the people who single-handedly did big projects such as To the moon, Stardew Valley and the more recent Sheff RPG project. Inspired by the authors, I wanted to develop myself, to be a part of such a talented and interesting community of developers. That's when I started learning how to work with Unity and C# on my own. I found out that C# is used to create software, which interested me as a work option. After analyzing the vacancies available to me, I realized that SQL was also needed for them, but it was far from real knowledge and practical development.
+
+In 2023, I started studying at Hexlet to improve my skills and take a serious approach to programming. At the moment, 2 projects have already been done, they can be found on my Github
+In my free time, I like to draw and play sports. I have a master of sports in kayaking. I always go to my goal and give my best.
+
+I am currently working at Yandex Food - information support
